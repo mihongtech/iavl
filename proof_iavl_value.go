@@ -5,7 +5,7 @@ import (
 
 	proto "github.com/gogo/protobuf/proto"
 	"github.com/pkg/errors"
-	"github.com/tendermint/tendermint/crypto/merkle"
+	"github.com/mihongtech/crypto/merkle"
 	tmmerkle "github.com/tendermint/tendermint/proto/tendermint/crypto"
 
 	iavlproto "github.com/cosmos/iavl/proto"
