@@ -1,4 +1,4 @@
-module github.com/cosmos/iavl
+module github.com/mihongtech/iavl
 
 go 1.13
 

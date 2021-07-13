@@ -4,11 +4,11 @@ import (
 	"fmt"
 
 	proto "github.com/gogo/protobuf/proto"
-	"github.com/pkg/errors"
 	"github.com/mihongtech/crypto/merkle"
+	"github.com/pkg/errors"
 	tmmerkle "github.com/tendermint/tendermint/proto/tendermint/crypto"
 
-	iavlproto "github.com/cosmos/iavl/proto"
+	iavlproto "github.com/mihongtech/iavl/proto"
 )
 
 const ProofOpIAVLAbsence = "iavl:a"

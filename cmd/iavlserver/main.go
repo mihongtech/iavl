@@ -21,8 +21,8 @@ import (
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/grpclog"
 
-	pb "github.com/cosmos/iavl/proto"
-	"github.com/cosmos/iavl/server"
+	pb "github.com/mihongtech/iavl/proto"
+	"github.com/mihongtech/iavl/server"
 )
 
 var (
