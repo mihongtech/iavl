@@ -12,9 +12,11 @@ require (
 	github.com/mihongtech/crypto v0.0.0-20210713081430-c9a4db655837
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
-	github.com/tendermint/tendermint v0.34.11
+
 	github.com/tendermint/tm-db v0.6.4
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	google.golang.org/genproto v0.0.0-20201119123407-9b1e624d6bc4
 	google.golang.org/grpc v1.37.0
 )
+
+replace github.com/mihongtech/tendermint => ./../../mihongtech/tendermint
