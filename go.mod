@@ -13,7 +13,6 @@ require (
 	github.com/mihongtech/tendermint v0.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
-    github.com/mihongtech/tendermint v0.0.0-20210728165926-4fe34d3f20ef
 	github.com/tendermint/tm-db v0.6.4
 	golang.org/x/crypto v0.0.0-20210711020723-a769d52b0f97
 	google.golang.org/genproto v0.0.0-20201119123407-9b1e624d6bc4
