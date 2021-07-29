@@ -9,7 +9,8 @@ require (
 	github.com/golang/protobuf v1.4.3
 	github.com/grpc-ecosystem/go-grpc-middleware v1.2.2
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/mihongtech/crypto v0.0.0-20210713081430-c9a4db655837
+	github.com/mihongtech/crypto v0.0.0-20210728121539-e2762b7cbec1
+	github.com/mihongtech/tendermint v0.0.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
     github.com/mihongtech/tendermint v0.0.0-20210728165926-4fe34d3f20ef
